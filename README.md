@@ -1,5 +1,5 @@
 ### Olá! 👋
-Me chamo Mariana Guinter, uma estudante apaixonada por Análise e Desenvolvimento de Sistemas, atualmente com 19 anos e embarcando na jornada profissional através de um estágio na área de Tecnologia da Informação.
+Me chamo Mariana Guinter, uma estudante apaixonada por TI, cursando Análise e Desenvolvimento de Sistemas, atualmente com 19 anos e embarcando na jornada profissional através de um estágio na área de Tecnologia da Informação.
 
 
 ### Sobre Mim
