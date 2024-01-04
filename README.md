@@ -1,16 +1,15 @@
-### Hi there 👋
+###Olá! 👋
+Me chamo Mariana Guinter, uma estudante apaixonada por Análise e Desenvolvimento de Sistemas, atualmente com 19 anos e embarcando na jornada profissional através de um estágio na área de Tecnologia da Informação.
 
-<!--
-**guintermari/guintermari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Sobre Mim
+🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+💼 Atualmente, estou realizando estágio na área de TI, onde tenho a oportunidade de aplicar meus conhecimentos e aprender novas habilidades.
+🌱 Tenho conhecimentos básicos em HTML, CSS e Python.
+🔍 Estou sempre em busca de oportunidades para aprimorar e expandir meu conhecimento.
 
-Here are some ideas to get you started:
+###Objetivos
+👩‍💻 Aprender novas tecnologias e aprofundar meu conhecimento nas linguagens que já domino.
+🚀 Contribuir para projetos de código aberto.
+📚 Participar de eventos e comunidades para estar sempre atualizada com as tendências da área.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
