@@ -3,20 +3,20 @@ Me chamo Mariana Guinter, uma estudante apaixonada por Análise e Desenvolviment
 
 
 ### Sobre Mim
-🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
+• 🎓 Estou cursando Análise e Desenvolvimento de Sistemas.
 
-💼 Atualmente, estou realizando estágio na área de TI, onde tenho a oportunidade de aplicar meus conhecimentos e aprender novas habilidades.
+• 💼 Atualmente, estou realizando estágio na área de TI, onde tenho a oportunidade de aplicar meus conhecimentos e aprender novas habilidades.
 
-🌱 Tenho conhecimentos básicos em HTML, CSS e Python.
+• 🌱 Tenho conhecimentos básicos em HTML, CSS e Python.
 
-🔍 Estou sempre em busca de oportunidades para aprimorar e expandir meu conhecimento.
+• 🔍 Estou sempre em busca de oportunidades para aprimorar e expandir meu conhecimento.
 
 
 ### Objetivos
-👩‍💻 Aprender novas tecnologias e aprofundar meu conhecimento nas linguagens que já domino.
+• 👩‍💻 Aprender novas tecnologias e aprofundar meu conhecimento nas linguagens que já domino.
 
-🚀 Contribuir para projetos de código aberto.
+• 🚀 Contribuir para projetos de código aberto.
 
-📚 Participar de eventos e comunidades para estar sempre atualizada com as tendências da área.
+• 📚 Participar de eventos e comunidades para estar sempre atualizada com as tendências da área.
 
 
